@@ -6,7 +6,7 @@ categories:: UGens>Buffer, UGens>Generators>Granular
 
 Description::
 
-Triggers generate grains from a buffer. Each grain has a linear and is panned between two channels of multiple outputs.
+Triggers generate grains from a buffer. Each grain has a linear envelope and is panned between two channels of multiple outputs.
 
 
 classmethods::
